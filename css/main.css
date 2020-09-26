@@ -558,7 +558,7 @@ input[type=button] {
 	.features h2 {
 		margin-bottom: 20px;
 	}
-  .fatures article {
+  .features article {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -712,7 +712,7 @@ input[type=button] {
     width: 90%
   }
 
-  .features-article {
+  .features article {
     flex-basis: 33%;
   }
 
